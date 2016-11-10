@@ -6,7 +6,6 @@ import org.scalatest.{FlatSpec, Matchers}
 class AlanPartridgeKataSpec extends FlatSpec with Matchers {
 
   val noRelatedTerm = "Lynn, I've pierced my foot on a spike!!"
-  val relatedTermFound = "Mine's a Pint!"
   val speakAlan = new AlanPartridgeKata
 
   "Calling AlanPartridgeKata" should

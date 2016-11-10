@@ -1,6 +1,4 @@
-/**
-  * Created by helen on 03/11/16.
-  */
+
 class AlanPartridgeKata {
   val termsList = Set("Partridge", "PearTree", "Chat", "Dan", "Toblerone", "Lynn", "AlphaPapa", "Nomad")
 
